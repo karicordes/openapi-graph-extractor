@@ -1,4 +1,4 @@
- [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Open-MBEE_openapi-graph-extractor&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Open-MBEE_openapi-graph-extractor)  <details>
+ [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Open-MBEE_openapi-graph-extractor&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Open-MBEE_openapi-graph-extractor&branch=pull%2F10%2Fhead)  <details>
   <summary>SonarCloud</summary>
   
 
